@@ -2,7 +2,7 @@
 
 ![Sample Output](./sampleOutput.png)
 
-Live: https://romnegrillo-sushiman.netlify.app/
+Live: https://restaurant-website-omkottewar.netlify.app/
 
 Sushiman is a simple landing page project about sushi restaurant. Developed to practice the basics of web development using purely HTML and CSS only, with a focus on creating a visually appealing design and implementing a well-structured layout. The development process followed coding best practices. Proper semantic elements were used to enhance the accessibility and structure of the website. Includes the utilization of the BEM (Block, Element, Modifier) model for maintaining clean and maintainable CSS code. The website is designed to be mobile responsive, ensuring optimal viewing and usability across different devices.
 
